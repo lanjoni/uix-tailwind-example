@@ -20,8 +20,8 @@ npm run release
 ```
 
 ### After running `npm start`
-App available at http://localhost:5000
-Test ui available at http://localhost:5001
+- App available at http://localhost:5000
+- Test ui available at http://localhost:5001
 
 ## Used software
 - [shadow-cljs](https://github.com/thheller/shadow-cljs)
